@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19d82a8d-3913-418c-be22-00fb65d4c2a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TryWithMutipleCatch/LearnTryOneCatchMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TryWithMultipleCatchParameters/LearnWithMultipleCatchParameters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Blocks/LearnTryCatchBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blocks/TryCatch/LearnTryCatchBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Blocks/LearnTryCatchBlockTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blocks/TryCatch/LearnTryCatchBlockTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionHandlingExplain/Explain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandlingExplain/Explain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     "onboarding.tips.debug.path": "/Users/kushagradalal/Downloads/Exception Handling/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LearnTryOneCatchMultiple">
+  <component name="RunManager" selected="Application.LearnWithMultipleCatchParameters">
     <configuration name="LearnTryCatchBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks.TryCatch.LearnTryCatchBlock" />
       <module name="Exception Handling" />
@@ -80,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearnWithMultipleCatchParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryWithMultipleCatchParameters.LearnWithMultipleCatchParameters" />
+      <module name="Exception Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TryWithMultipleCatchParameters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LearnWithMultipleCatchParameters" />
         <item itemvalue="Application.LearnTryOneCatchMultiple" />
         <item itemvalue="Application.LearnTryCatchBlockTwo" />
         <item itemvalue="Application.LearnTryCatchBlock" />

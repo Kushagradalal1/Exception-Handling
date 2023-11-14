@@ -121,8 +121,11 @@ public class Explain {
 
     try{
 
-    }catch(){
-
+    }catch(ArrayIndexOutOfBounds| NumberFormat e){
+        print("invaild inputs");        -> after java 7 version
     }
+
+    :
+
      */
 }
