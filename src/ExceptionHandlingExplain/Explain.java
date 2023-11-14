@@ -86,5 +86,22 @@ public class Explain {
     }catch(Exception e){
 
     }
+
+
+    : Parent most class of java is : Object :
+
+                        Object
+                           |
+                        Throwable
+                        |       |
+                    Exception  Error
+
+                    Exception : is the parent most class for all the exception class :
+                    : ArrayIndexOutOfBoundException : ArithmeticException : NumberFormatException : NullPointerException :
+                    : IOException : FileNotFoundException :
+
+       : Catch block can have a parameter of Exception type : or any of it's child type :
+       :
+
      */
 }
