@@ -111,3 +111,7 @@ public class LearnTryCatchBlock {
         System.out.println("End of Main() ");
     }
 }
+/*
+when we pass the input as x : 50 and y : abc then it's an exception :
+
+ */

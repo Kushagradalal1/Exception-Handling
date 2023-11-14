@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19d82a8d-3913-418c-be22-00fb65d4c2a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blocks/LearnTryCatchBlockTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Blocks/LearnTryCatchBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blocks/LearnTryCatchBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionHandlingExplain/Explain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandlingExplain/Explain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "onboarding.tips.debug.path": "/Users/kushagradalal/Downloads/Exception Handling/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LearnTryCatchBlockTwo">
     <configuration name="LearnTryCatchBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks.LearnTryCatchBlock" />
       <module name="Exception Handling" />
@@ -51,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearnTryCatchBlockTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Blocks.LearnTryCatchBlockTwo" />
+      <module name="Exception Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Blocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LearnTryCatchBlockTwo" />
         <item itemvalue="Application.LearnTryCatchBlock" />
       </list>
     </recent_temporary>

@@ -74,6 +74,17 @@ public class Explain {
     }
     ------------------------------
 
+    it size() that is ArrayIndexOutOfBoundException :
+    : when we try to convert a string with some alphabet into number : NumberFormatException :
+    : when we try to divide a number by zero : ArithmeticException :
 
+
+    : Catch block always contains a parameters (like a method parameters)
+
+    : try{
+
+    }catch(Exception e){
+
+    }
      */
 }
