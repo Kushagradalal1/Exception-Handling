@@ -103,5 +103,26 @@ public class Explain {
        : Catch block can have a parameter of Exception type : or any of it's child type :
        :
 
+
+    : Parent most type of catch block should be at the last position it should not be at the first position :
+    : if we try to write at the first position it will be an error :
+    : error : already been caught :
+    : first child type and then the parent type catch block :
+
+
+    : Example :
+    try{
+
+    }catch(ArrayIndexOutOfBoundsException e){
+        sopln("invaild inputs");        -> handling for this two is same : this way is correct but we can also write this into other way
+    }catch(NumberFormatException e){
+        sopln("invaild inputs");
+    }
+
+    try{
+
+    }catch(){
+
+    }
      */
 }

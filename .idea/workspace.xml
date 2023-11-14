@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19d82a8d-3913-418c-be22-00fb65d4c2a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandlingExplain/Explain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandlingExplain/Explain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TryWithMutipleCatch/LearnTryOneCatchMultiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blocks/LearnTryCatchBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blocks/TryCatch/LearnTryCatchBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blocks/LearnTryCatchBlockTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blocks/TryCatch/LearnTryCatchBlockTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +36,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "onboarding.tips.debug.path": "/Users/kushagradalal/Downloads/Exception Handling/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LearnTryCatchBlockTwo">
+  <component name="RunManager" selected="Application.LearnTryOneCatchMultiple">
     <configuration name="LearnTryCatchBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Blocks.LearnTryCatchBlock" />
+      <option name="MAIN_CLASS_NAME" value="Blocks.TryCatch.LearnTryCatchBlock" />
       <module name="Exception Handling" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Blocks.*" />
+          <option name="PATTERN" value="Blocks.TryCatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,11 +55,24 @@
       </method>
     </configuration>
     <configuration name="LearnTryCatchBlockTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Blocks.LearnTryCatchBlockTwo" />
+      <option name="MAIN_CLASS_NAME" value="Blocks.TryCatch.LearnTryCatchBlockTwo" />
       <module name="Exception Handling" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Blocks.*" />
+          <option name="PATTERN" value="Blocks.TryCatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnTryOneCatchMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryWithMutipleCatch.LearnTryOneCatchMultiple" />
+      <module name="Exception Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TryWithMutipleCatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LearnTryOneCatchMultiple" />
         <item itemvalue="Application.LearnTryCatchBlockTwo" />
         <item itemvalue="Application.LearnTryCatchBlock" />
       </list>

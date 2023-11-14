@@ -1,4 +1,4 @@
-package Blocks;
+package Blocks.TryCatch;
 
 
 import java.util.Scanner;
