@@ -125,7 +125,59 @@ public class Explain {
         print("invaild inputs");        -> after java 7 version
     }
 
-    :
+    : Finally Blocks : we are writing the finally blocks for resource releasing statements :
+    : Finally blocks provide you such a place for which you have a guranteed execution :
+
+    try{
+
+    }catch{
+
+    }finally{
+
+    }
+
+    Example : the file we have open is "abc"
+    and closing this file is resource releasing.
+
+    and we want our file must be closed in any circumstances :
+    try{
+        open file "abc"
+        read
+        read
+        read
+        changes
+        changes
+        changes
+
+        closed file "abc" -> this is not a right place to closed this file :
+
+     }catch(Exception e){
+        closed file "abc" -> this is also not a right way to write this :
+     }
+     finally{
+        file closed "abc" -> this is  correct way to write this statement :
+     }
+
+     : In case of abnormal termination also it will execute the finally blocked :
+
+     : Java 7 : Has introduced : Auto Closable try block : and if we are using auto-closable-try-catch-block :
+     : we don't need to write finally blocks :
+     : try{
+            open "abc"
+     }
+     catch{
+
+     }
+     finally{
+            closed "abc"
+     }
+
+    : try(open "abc"){ => this file will automatically closed. when the control will go out of try block.
+
+    }
+    catch{
+
+    }
 
      */
 }
