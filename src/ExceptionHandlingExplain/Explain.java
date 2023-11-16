@@ -179,5 +179,13 @@ public class Explain {
 
     }
 
+
+    : Checked And UnChecked Exceptions :
+    : Checked Exception : an exception which is reported by your compiler at compile time only.
+                        : And compiler force you to handle it. and if you don't write try catch block for handling the exception :
+                        : this type of exception are called as Checked Exception :
+
+    : UnChecked Exception : an exception which is not reported at compile time and compile never force you to handle it :
+
      */
 }
