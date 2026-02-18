@@ -9,7 +9,7 @@ public class LearnWithMultipleCatchParameters {
         int x=0; int y=0; int res=0;
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter x : ");
-        System.out.println("Enter y : ");kushagra
+        System.out.println("Enter y : "); Netweb Technoloy
         try {
             x = sc.nextInt();
             y = sc.nextInt();
